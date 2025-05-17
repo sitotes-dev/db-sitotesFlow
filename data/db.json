@@ -50,7 +50,15 @@
             "img": ""
           }
         ],
-        "transaction": []
+        "transaction": [
+          {
+            "jumlah": 5000,
+            "categ": "-",
+            "info": "-",
+            "date": "17-5-2025||19:18:05",
+            "by": "Yogaa"
+          }
+        ]
       }
     ],
     "admin": {
