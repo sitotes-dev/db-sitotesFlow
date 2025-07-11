@@ -133,7 +133,15 @@
             "img": ""
           }
         ],
-        "transaction": []
+        "transaction": [
+          {
+            "jumlah": 95000,
+            "categ": "-",
+            "info": "-",
+            "date": "11-7-2025||09:31:34",
+            "by": "pecaer"
+          }
+        ]
       }
     ],
     "admin": {
