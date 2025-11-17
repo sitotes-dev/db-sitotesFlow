@@ -88,7 +88,15 @@
             "img": "1sOfYMeai0uQL_KRmdFiFIiEfu6msfEdq"
           }
         ],
-        "transaction": []
+        "transaction": [
+          {
+            "jumlah": 40000,
+            "categ": "-",
+            "info": "-",
+            "date": "17-11-2025||19:42:08",
+            "by": "ShiTod"
+          }
+        ]
       },
       {
         "users": [
