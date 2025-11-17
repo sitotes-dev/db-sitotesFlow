@@ -90,13 +90,6 @@
         ],
         "transaction": [
           {
-            "jumlah": 50000,
-            "categ": "-",
-            "info": "-",
-            "date": "21-5-2025||23:36:59",
-            "by": "ShiTod"
-          },
-          {
             "jumlah": -50000,
             "categ": "lainnya",
             "info": "Topup Ml Miya",
