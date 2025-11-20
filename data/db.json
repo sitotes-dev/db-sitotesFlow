@@ -58,6 +58,37 @@
             "date": "12-10-2025||20:54:41",
             "by": "lolyy"
           }
+        ],
+        "savingsPlans": [
+          {
+            "planId": "40ca6af9-74be-497e-a62b-5ad90ab68120",
+            "planName": "Dana sebulan",
+            "totalAmount": 1000000,
+            "duration": "weekly",
+            "startDate": "2025-11-20T01:56:42.793Z",
+            "categories": [
+              {
+                "name": "Hiburan",
+                "percentage": 20,
+                "categoryId": "14d0166f-e9a3-400a-8722-8a90cd286e1e"
+              },
+              {
+                "name": "Pokok",
+                "percentage": 50,
+                "categoryId": "f4134bef-9735-4a69-ba00-84a988864bda"
+              },
+              {
+                "name": "Darurat",
+                "percentage": 10,
+                "categoryId": "41ce7de7-8060-4803-acb9-0fd45274e00f"
+              },
+              {
+                "name": "Masadepan",
+                "percentage": 20,
+                "categoryId": "f5524da6-b09b-46f2-88f9-cf8fa135b1cf"
+              }
+            ]
+          }
         ]
       },
       {
